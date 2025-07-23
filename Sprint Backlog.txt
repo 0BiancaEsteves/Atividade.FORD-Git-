@@ -1,0 +1,14 @@
+Sprint Backlog
+
+
+Na página index, foi adicionada a cor azul, como foi prescrito. Adicionei, colocando o 
+comando “#0000AA” ficando o comando com a cor azul. Adicionando esse comando, o 
+código fica: “<li><font color= “#0000AA” exemplo </font> </li >” adicionando esse comando, 
+a cor dos veículos fica azul, como prescrito. Os nomes dos links foram mudados, para 
+facilitar o entendimento do usuário. Assim como, os nomes dos produtos também foram 
+mudados para facilitar o entendimento.
+Para facilitar a navegação do usuário, na página ‘contato’ foi facilitada para simplificar a 
+navegação do usuário. Facilitando esse processo, a página contato, com os nomes dos links
+para as outras páginas sejam mais detalhadas para facilitar o entendimento.
+
+Nome: Bianca Ramos Esteves Santos
